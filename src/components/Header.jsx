@@ -2,7 +2,7 @@ import Wrapper from "./Wrapper"
 
 const Header = () => {
     return (
-        <header className="h-[1161px] bg-no-repeat bg-[url('../src/assets/Group.svg')] bg-[top_0px_right_-325px]">
+        <header className="h-[1161px] bg-no-repeat bg-[url('/assets/Group.svg')] bg-[top_0px_right_-325px]">
             <Wrapper>
                 <div className="w-[540px] mt-[250px]">
                     <div>
